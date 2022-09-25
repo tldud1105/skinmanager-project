@@ -8,4 +8,4 @@
 - ACNE04 Dataset
 The ACNE04 dataset can be downloaded from [Google][googlelink]
 
-[googlelink]: [https://google.com "Go google"](https://drive.google.com/drive/folders/18yJcHXhzOv7H89t-Lda6phheAicLqMuZ)
+[googlelink] : https://drive.google.com/drive/folders/18yJcHXhzOv7H89t-Lda6phheAicLqMuZ
