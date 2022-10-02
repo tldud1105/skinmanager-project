@@ -1,0 +1,11 @@
+#IDE metadata
+.idea/
+
+#venv
+venv/
+
+#data
+download
+
+#.pyc
+__pycache__/
